@@ -22,7 +22,7 @@ The score-based models use forward and reverse **Ornstein-Uhlenbeck processes** 
 #### Additional links:
 More information about score-based diffusion models can be found from these links below:
 
-- [Score-based diffusion modelling for image denoising paper](https://arxiv.org/pdf/2011.13456)
+- [Score-based diffusion modelling for image denoising](https://arxiv.org/pdf/2011.13456)
 - [Score-based diffusion models in inverse problems](https://arxiv.org/pdf/2111.08005)
 - [Conditioal score-based diffusion models using Ornstein-Uhlenbeck processes](https://arxiv.org/pdf/2305.19147)
 
